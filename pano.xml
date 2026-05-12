@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="21036" appversion="7.1.12" start="node1" hassounds="0">
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelingpitch="0" levelbias="0.400" width="3000" overlap="1">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="9" fov="108.531" tilt="-5.01823" pan="-19.2822"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata longitude="" source="" latitude="" description="" tags="Spacer" heading="0" title="Rozdzielnia 15 kV Sekcja I" comment="" copyright="" customnodeid="" nodeid="node1" info="" author="" datetime="12.05.2026 11:14"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label height="20" borderalpha="1" enabled="1" border="1" backgroundalpha="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="Sprzęgło" target="" id="Point01" tilt="-4.96" pan="-356.92" skinid="ht_node" description="" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" enabled="1" zoomspeed="2" zoomafterinfov="140" softedge="0" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" blendcolor="0x000000" type="crossdissolve" zoomout="0" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control rubberband="0" hideabout="0" contextprojections="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" lockedkeyboard="0" invertwheel="0" zoomcentercursor="1" contextvr="1" speedwheel="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelingpitch="0" levelbias="0.400" width="3000" overlap="1">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="9" fov="162.909" tilt="9.34514" pan="98.7349"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata longitude="" source="" latitude="" description="" tags="Spacer" heading="0" title="Sprzęgło" comment="" copyright="" customnodeid="" nodeid="node2" info="" author="" datetime="12.05.2026 11:15"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label height="20" borderalpha="1" enabled="1" border="1" backgroundalpha="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="Rozdzielnia 15 kV Sekcja II" target="" id="Point01" tilt="-4.96" pan="-354.9" skinid="ht_node" description="" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" enabled="1" zoomspeed="2" zoomafterinfov="140" softedge="0" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" blendcolor="0x000000" type="crossdissolve" zoomout="0" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control rubberband="0" hideabout="0" contextprojections="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" lockedkeyboard="0" invertwheel="0" zoomcentercursor="1" contextvr="1" speedwheel="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelingpitch="0" levelbias="0.400" width="3000" overlap="1">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="12" fov="190.628" tilt="2.93604" pan="124.867"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata longitude="" source="" latitude="" description="" tags="Spacer" heading="0" title="Rozdzielnia 15 kV Sekcja II" comment="" copyright="" customnodeid="" nodeid="node3" info="" author="" datetime="12.05.2026 11:17"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label height="20" borderalpha="1" enabled="1" border="1" backgroundalpha="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="Rozdzielnia 15 kV Sekcja I" target="" id="Point01" tilt="-2.21" pan="-177.14" skinid="ht_node" description="" url="{node1}"/>
+      <hotspot title="Rozdzielnia 3 kV" target="" id="Point02" tilt="-5.72" pan="-23.71" skinid="ht_node" description="" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" enabled="1" zoomspeed="2" zoomafterinfov="140" softedge="0" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" blendcolor="0x000000" type="crossdissolve" zoomout="0" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control rubberband="0" hideabout="0" contextprojections="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" lockedkeyboard="0" invertwheel="0" zoomcentercursor="1" contextvr="1" speedwheel="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelingpitch="0" levelbias="0.400" width="3000" overlap="1">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="12" fov="190.628" tilt="-8.27814" pan="-13.6324"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata longitude="" source="" latitude="" description="" tags="Spacer" heading="0" title="Rozdzielnia 3 kV" comment="" copyright="" customnodeid="" nodeid="node4" info="" author="" datetime="12.05.2026 11:19"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label height="20" borderalpha="1" enabled="1" border="1" backgroundalpha="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" background="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="Rozdzielnia 15 kV Sekcja II" target="" id="Point01" tilt="-10.34" pan="-133.61" skinid="ht_node" description="" url="{node3}"/>
+      <hotspot title="Rozdzielnia 15 kV Sekcja I" target="" id="Point02" tilt="-1.09" pan="-7.54" skinid="ht_node" description="" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" enabled="1" zoomspeed="2" zoomafterinfov="140" softedge="0" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" blendcolor="0x000000" type="crossdissolve" zoomout="0" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control rubberband="0" hideabout="0" contextprojections="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" lockedmouse="0" sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" lockedkeyboard="0" invertwheel="0" zoomcentercursor="1" contextvr="1" speedwheel="1" dblclickfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="Wirtualny spacer po PT" comment="" copyright="" description="" author="DS_JZ" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
